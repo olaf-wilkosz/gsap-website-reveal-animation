@@ -218,6 +218,11 @@ nav {
 	color: #fff;
 }
 
+.loader-text .letter {
+	display: inline-block;
+	line-height: 1em;
+}
+
 .revealer {
 	position: absolute;
 	top: 0;
